@@ -6,3 +6,6 @@ console.log(button);
 
  const payment = "integrated the payment gateway";
  console.log(payment);
+
+ const upi = "integrated upi also";
+ console.log(upi);
